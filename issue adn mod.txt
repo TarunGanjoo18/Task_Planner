@@ -1,0 +1,6 @@
+
+
+Mods: 
+delete modal feature 
+open task
+edit task
